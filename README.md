@@ -48,10 +48,8 @@ FSA-GA được thử nghiệm trên **9 hàm mục tiêu chuẩn** (F1 đến F
 ## Cách sử dụng
 
 ### 1. Cài đặt các thư viện
-Bạn cần cài đặt các thư viện sau:
-
-```bash
-pip install numpy matplotlib.
+Bạn cần cài đặt các thư viện sau: 
+pip install numpy matplotlib
 
 ### 2. Chạy thử nghiệm
 # Import thư viện
